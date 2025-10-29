@@ -1,0 +1,1 @@
+S1001|3B|Belliii|cout<<"Hello World!"|Accepted|Tue Oct 28 16:49:51 2025

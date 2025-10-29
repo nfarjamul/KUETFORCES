@@ -1,0 +1,1 @@
+3B|Watermelon|Open for all|800|1s|1 2 3|cout<<"Hello World!"|Here is the link:http//www.youtube.com|math,implementation,beginner
